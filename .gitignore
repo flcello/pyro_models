@@ -1,0 +1,12 @@
+*
+
+!.gitignore
+!*.py
+!*.ipynb
+!*.md
+!*/
+!environment.yml
+!*.csv
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
